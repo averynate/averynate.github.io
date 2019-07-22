@@ -1,12 +1,12 @@
 # Site settings
-title:        "block-Log"
-description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
+title:        "block-log ouiv"
+description:  "InterVarsity at OU"
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "http://yourdomain.com" # the base hostname & protocol for your site
 permalink:    /:year/:title
-github:       "yourusername"
-twitter:      ""
-email:        "mail@example.com"
+github:       
+twitter:      
+email:        na@ou.edu
 disqus-id:    #leave blank if you dont want comments.
 
 # Build settings
